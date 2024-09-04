@@ -1104,7 +1104,7 @@ input::-moz-focus-inner {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../images/hero-bg1.JPG);
+  background-image: url(../images/hero-bg2.JPG);
 }
 
 .s-home--static::before {
@@ -1269,7 +1269,7 @@ input::-moz-focus-inner {
   letter-spacing: .3rem;
   color: white;
   margin-top: 0;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   padding-left: 55px;
   position: relative;
 }
